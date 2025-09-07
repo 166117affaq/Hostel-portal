@@ -1,0 +1,28 @@
+{
+  "name": "amazon-hostels",
+  "version": "1.0.0",
+  "description": "Amazon Group Of Hostels - Professional Portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "express-session": "^1.17.3",
+    "sqlite3": "^5.1.6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/166117affaq/Hostel-portal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/166117affaq/Hostel-portal/issues"
+  },
+  "homepage": "https://github.com/166117affaq/Hostel-portal#readme"
+}
